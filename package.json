@@ -1,0 +1,29 @@
+{
+  "name": "shoplugi",
+  "version": "1.0.0",
+  "description": "shop na lugi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesyaks/shoplugi.git"
+  },
+  "keywords": [
+    "online",
+    "shop",
+    "for",
+    "online",
+    "seller",
+    "in",
+    "the",
+    "philippines"
+  ],
+  "author": "franyum jamesyaks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesyaks/shoplugi/issues"
+  },
+  "homepage": "https://github.com/jamesyaks/shoplugi#readme"
+}
